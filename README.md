@@ -1,4 +1,4 @@
-# Aprender-a-manejar-linox
+# Aprender-a-manejar-linux
 - Linux es un libro  abierto pero es algo complejo.
 - Es un sistema operativo  que la mayoria de su gente lo maneja.
 - Youtube, tiene sistemas operativos  de linux.
@@ -28,4 +28,4 @@
 - Canomicad = Ubuntu
 - Oracle = Oracle linux, Oracle solaris.
 - Tenemos la empresa (Nuvell= suse )
-- 
+
